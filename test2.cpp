@@ -5,5 +5,6 @@ int main(){
     cout << "\nHello My Friend121213213";
     cout << "\nHello";
     cout << ":";
+    cout << "kaca";
     return 0;
 }
