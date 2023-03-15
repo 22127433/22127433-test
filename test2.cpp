@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     cout << ":adad";
-    cout << "Hello Earth";
+    cout << " Earth";
     cout << "";
     return 0;
 }
